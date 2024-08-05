@@ -29,7 +29,7 @@ body{
         @apply w-full h-full object-cover block
     }
     .transbutton{
-        @apply bg-transparent font-medium text-[13px] tracking-tight py-2.5 px-3 rounded-[10px] border-solid border border-[##222222]
+        @apply bg-transparent font-medium text-[13px] tracking-tight py-2.5 px-3 rounded-[10px] border-solid border border-[#222222]
     }
     .listItem{
         @apply flex flex-col items-start gap-2 w-[230px] justify-self-center
