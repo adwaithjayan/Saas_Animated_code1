@@ -19,9 +19,9 @@ function Youneed() {
             </p>
           </div>
         </div>
-        <div className='flex flex-col items-center justify-center mt-20 gap-5 lg:flex-row'>
+        <div className=' flex flex-col items-center justify-center mt-20 gap-5 lg:flex-row'>
 
-          <div className='border border-[#1B1B1B]/8 rounded-[20px] flex flex-col items-center w-max gap-3 p-10 shadow-[0_3px_10px_rgb(0,0,0,0.2)]'>
+          <div className='max-w-xs w-full p-10 rounded-3xl shadow-[0_7px_14px_#eaeaea] border border-[#f1f1f1]'>
             <motion.img whileHover={{
               scale:1.1,
             }}
@@ -37,7 +37,7 @@ function Youneed() {
             
           </div>
 
-          <div className='border border-[#1B1B1B]/8 rounded-[20px] flex flex-col items-center w-max gap-3 p-10 shadow-[0_3px_10px_rgb(0,0,0,0.2)]'>
+          <div className='max-w-xs w-full p-10 rounded-3xl shadow-[0_7px_14px_#eaeaea] border border-[#f1f1f1]'>
           <motion.img whileHover={{
               scale:1.1,
             }}
